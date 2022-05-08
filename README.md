@@ -47,4 +47,4 @@ Assessment:
 	               completing a graphic organizer (compare & contrast) with little evidence. 
 
           1. I don’t get it! I am confused by
-	               completing a graphic organizer (compare & contrast) with no evidence. 
+	               completing a graphic organizer (compare & contrast) with no evidence. 	
