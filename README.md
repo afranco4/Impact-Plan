@@ -31,21 +31,18 @@ Collaboration:
                         Organizations? 
 
 Assessment:
-	  Students are to interview an adult and ask, "What technology has had the most impact on your 
-          life? In what ways has your life been affected?" 
+	Students are to interview an adult and ask, "What technology has had the most impact on your 
+        life? In what ways has your life been affected?" 
 
-          Students will record the adult’s answer and compare and contrast the answer with their own 
-          original answer in a brief paragraph.
+	Students will record the adult’s answer and compare and contrast the answer with their own 
+        original answer in a brief paragraph.
 	
-          Self-Evaluation:
-          4. I got it! I understand everything by
-                       completing a graphic organizer (compare & contrast) with a lot of evidence. 
+Self-Evaluation:
 
-          3. I mostly get it! I understand most of it but not all of it by 
-	               completing a graphic organizer (compare & contrast) with some evidence. 
+	4. I got it! I understand everything by completing a graphic organizer (compare & contrast) with a lot of evidence. 
 
-          2. I sort of get it! I am still a little confused by
-	               completing a graphic organizer (compare & contrast) with little evidence. 
+	3. I mostly get it! I understand most of it but not all of it by completing a graphic organizer (compare & contrast) with some evidence. 
 
-          1. I don’t get it! I am confused by
-	               completing a graphic organizer (compare & contrast) with no evidence. 		
+	2. I sort of get it! I am still a little confused by completing a graphic organizer (compare & contrast) with little evidence. 
+
+	1. I don’t get it! I am confused by completing a graphic organizer (compare & contrast) with no evidence. 		
