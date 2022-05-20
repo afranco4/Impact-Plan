@@ -18,13 +18,14 @@ Learning Activities:
 	 Discuss issues of bias and accessibility in the design of existing technologies. 
 	  		What would one find most difficult to do without technology?
 
-	 Collaboration through strategies such as crowdsourcing (the practice of 
+Collaboration:
+	 Through strategies such as crowdsourcing (the practice of 
          obtaining a computational artifact (is something created by a human using a 
          computer and can be, but is not limited to, a program, an image, audio, a video, a 
          presentation). 
 	                Does it make a difference what the application/computing is for?
 
-         Describe tradeoffs between allowing information to be public and keeping 
+	 Describe tradeoffs between allowing information to be public and keeping 
          information private and secure. 
 	                How computing is affecting personal privacy and the security of 
                         Organizations? 
