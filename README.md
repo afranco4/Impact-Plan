@@ -27,7 +27,7 @@ Learning Activities:
          Describe tradeoffs between allowing information to be public and keeping 
          information private and secure. 
 	                How computing is affecting personal privacy and the security of 
-                        Organizations?
+                        Organizations? 
 
 Assessment:
 	  Students are to interview an adult and ask, "What technology has had the most impact on your 
