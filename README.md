@@ -31,7 +31,6 @@ Collaboration:
 Assessment:
 	Students are to interview an adult and ask, "What technology has had the most impact on your 
         life? In what ways has your life been affected?" 
-
 	Students will record the adult’s answer and compare and contrast the answer with their own 
         original answer in a brief paragraph.
 	
