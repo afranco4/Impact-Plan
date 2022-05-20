@@ -35,7 +35,6 @@ Assessment:
         original answer in a brief paragraph.
 	
 Self-Evaluation:
-
 	4. I got it! I understand everything by completing a graphic organizer (compare & contrast) with a lot of evidence. 
 
 	3. I mostly get it! I understand most of it but not all of it by completing a graphic organizer (compare & contrast) with some evidence. 
