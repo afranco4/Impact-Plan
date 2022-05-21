@@ -42,4 +42,7 @@ Self-Evaluation:
 	
 	2. I sort of get it! I am still a little confused by completing a graphic organizer (compare & contrast) with little evidence. 
 	
-	1. I don’t get it! I am confused by completing a graphic organizer (compare & contrast) with no evidence. 		
+	1. I don’t get it! I am confused by completing a graphic organizer (compare & contrast) with no evidence. 
+
+Outcomes:
+	The plan will help students focus on the negative and positive impacts of technology and how it can affect differently adults from adolescents.
